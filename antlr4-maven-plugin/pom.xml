@@ -19,7 +19,7 @@
   <inceptionYear>2009</inceptionYear>
 
   <properties>
-    <mavenVersion>3.8.5</mavenVersion>
+    <mavenVersion>3.9.7</mavenVersion>
   </properties>
 
   <!-- ============================================================================= -->
